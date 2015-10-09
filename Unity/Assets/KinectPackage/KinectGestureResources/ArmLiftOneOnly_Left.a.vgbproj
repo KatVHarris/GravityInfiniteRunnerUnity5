@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ProjectFile>
+		<Header>
+			<Date>2015-09-11</Date>
+			<Time>02:04:17.3486962-07:00</Time>
+			<Version>5</Version>
+			<Type>AdaBoostTrigger</Type>
+			<Function>
+				<Type>Analysis</Type>
+				<ProjectAttribute Name="ArmLiftOneOnly_Left" Type="BOOL" />
+				<ProjectAccompanyAttributes>
+					<Items Name="Confidence" Type="FLOAT" />
+					<Items Name="FirstFrameDetected" Type="BOOL" />
+				</ProjectAccompanyAttributes>
+				<DefaultTag xsi:type="BoolAttribute" Name="ArmLiftOneOnly_Left" Value="false" />
+			</Function>
+			<ID>83adb50a-8f13-4ae5-a762-c3424837713c</ID>
+		</Header>
+		<Project_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>../../../../../../../Kinect Studio/Repository/ArmLiftRLB/TestForAll.vgbclip</File>
+					</Items>
+				</Content>
+			</Files>
+		</Project_Data>
+		<UI_State />
+		<Attributes>
+			<Items xsi:type="BoolAttribute" Name="Mirror Left Right" Value="false" />
+		</Attributes>
+	</ProjectFile>
+</GestureBuilderFile>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2015-09-11</Date>
+			<Time>01:21:26.7926322-07:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>ce23fc58-2282-4c32-94bd-8a7eb8c235b9</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>ArmLiftOneOnly_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ArmLiftOneOnly_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ArmLiftOneOnly_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ArmLiftOneOnly_Right.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>TwoArmLift.vgbproj</File>
+					</Items>
+					<Items>
+						<File>TwoArmLift.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>
