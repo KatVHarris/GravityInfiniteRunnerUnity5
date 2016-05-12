@@ -3720,7 +3720,7 @@ MonoBehaviour:
   bodyManager: {fileID: 878410428}
   difficulty: 0
   oculusActive: 1
-  kinectActive: 1
+  kinectActive: 0
 --- !u!1 &1923604060
 GameObject:
   m_ObjectHideFlags: 0
