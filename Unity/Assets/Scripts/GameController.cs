@@ -203,6 +203,7 @@ public class GameController : MonoBehaviour {
     {
         if (oculusOVRManager.headsetConnectionComplete)
             oculusActive = true;
+        
     }
 
 

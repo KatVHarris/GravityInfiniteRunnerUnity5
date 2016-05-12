@@ -1,9 +1,0 @@
-This crate is created for any environment.
-
-The size is One unit, so you can duplicate it by snapping.
-
-Normal map; Diffuse Map, Specular Map
-
-The base crate has 6 faces.
-
-3 versions, using the same 512 px texture.

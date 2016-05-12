@@ -234,65 +234,6 @@ public class HandGestureTrigger : MonoBehaviour {
         levelHasGenerated = true; 
     }
 
-    //private int CheckHandState(Kinect.HandState handState)
-    //{
-    //    int result = 0;
-    //    switch (handState)
-    //    {
-    //        //Normal
-    //        case Kinect.HandState.Closed:
-    //            result = 0;
-    //            break;
-    //        //Shoot
-    //        case Kinect.HandState.Open:
-    //            result = 0;
-    //            break;
-    //        //Flip
-    //        case Kinect.HandState.Lasso:
-    //            result = 1;
-    //            break;
-    //    }
-    //    return result;
-    //}
-
-    //void CheckLeftHandState(Kinect.HandState handState)
-    //{
-    //    switch (handState)
-    //    {
-    //        //Normal
-    //        case Kinect.HandState.Closed:
-
-    //            break;
-    //        //Shoot
-    //        case Kinect.HandState.Open:
-    //            leftHandActive = false;
-    //            break;
-    //        //Flip
-    //        case Kinect.HandState.Lasso:
-    //            leftHandActive = true;
-    //            Debug.LogError("left");
-    //            break;
-    //    }
-    //}
-
-    //void CheckRightHandState(Kinect.HandState handState)
-    //{
-    //    switch (handState)
-    //    {
-    //        //Normal
-    //        case Kinect.HandState.Closed:
-
-    //            break;
-    //        //Shoot
-    //        case Kinect.HandState.Open:
-    //            break;
-    //        //Flip
-    //        case Kinect.HandState.Lasso:
-    //            rightHandActive = true;
-    //            Debug.LogError("Right");
-    //            break;
-    //    }
-    //}
 
     private GameObject CreateBodyObject(ulong id)
     {
